@@ -11,6 +11,7 @@ const BasketItem = ({ title, price, amount, id }) => {
 
   return (
     <Container>
+      
       <h4>{title}</h4>
       <Content>
         <InformationBlock>
